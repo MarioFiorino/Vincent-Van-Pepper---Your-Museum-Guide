@@ -5,6 +5,6 @@ Develop the project of a museum guide using Robot umanoide Pepper (called : " Vi
 
 Report in pdf
 
-*
++
 
 For more details on the code go to: https://github.com/giabb/human-pepper-interaction
