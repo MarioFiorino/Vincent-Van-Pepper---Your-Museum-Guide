@@ -1,7 +1,7 @@
 # Vincent-Van-Pepper---Your-Museum-Guide
 Museum guide using Robot umanoide Pepper (SoftBank )
 
-Develop the project of a museum guide using Robot umanoide Pepper (called : " Vincent Van Pepper " !)
+Develop the project of a museum guide using robot umanoide Pepper (called : " Vincent Van Pepper " !)
 
 Report in pdf
 
